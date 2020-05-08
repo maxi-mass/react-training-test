@@ -1,0 +1,6 @@
+.profileStatus {
+    min-height: 20px;
+    min-width: 150px;
+    border-bottom: 1px solid black;
+    display: inline-block;
+}

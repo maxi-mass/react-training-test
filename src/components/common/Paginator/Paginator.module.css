@@ -1,0 +1,25 @@
+.selectedPage {
+    font-size: 20px;
+}
+
+.pageNumber:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.firstLastPage {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 15px;
+
+}
+.firstLastPage:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.firstPage {
+    margin-right: 20px;
+}
+.lastPage {
+    margin-left: 20px;
+}

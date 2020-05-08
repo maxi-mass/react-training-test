@@ -1,0 +1,7 @@
+.dialogItem.active a{
+    color: chartreuse;
+}
+
+.dialogItem a{
+    color: whitesmoke;
+}
